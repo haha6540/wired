@@ -37,8 +37,8 @@ wired groupware team project
 
 
 프로젝트 참여자
-alsrnr0162@naver.com
-aaoo1129@naver.com 
-dudtjs6540@naver.com
+alsrnr0162@naver.com /
+aaoo1129@naver.com /
+dudtjs6540@naver.com /
 parkforte@naver.com
 
