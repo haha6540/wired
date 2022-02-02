@@ -20,7 +20,7 @@ wired groupware team project
 &nbsp; Tool: STS 4.11, Sourcetree <br>
 &nbsp; Language: Java jdk 1.8.0, JSP 2.3, HTML5, CSS3, JavaScript, JQuery <br> 
 &nbsp; DB: Oracle 18c <br>
-▷ 기획의도 : 개발비용과 코로나가 장기화 됨으로 인해 디지털 트랜스포메이션 현상이 <br> 
+▷ 기획의도 : 코로나가 장기화 됨으로 인해 디지털 트랜스포메이션 현상이 <br> 
 &nbsp;&nbsp;&nbsp; 빠르게 확산되고 있어 대부분의 업계가 자택근무, 시차출근 등 비대면 협업증가로 <br>
 &nbsp;&nbsp;&nbsp; 현 시점에서 가장 필요한 서비스를 개발하고자 했습니다. <br>
 ▷ 기능 : <br> 
